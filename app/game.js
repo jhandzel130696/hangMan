@@ -18,6 +18,15 @@ class Game {
         },{
         text:'transformers',
             category:'film'
+        },{
+        text:'pies',
+            category: 'zwierze'
+        },{
+        text: 'warszawa',
+            category: 'miasto'
+        },{
+        text:'sopot',
+            category: 'miasto'
         }];
   constructor({
     lettersWrapper,
